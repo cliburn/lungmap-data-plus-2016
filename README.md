@@ -14,6 +14,7 @@ Lung-MAP is an unprecedented public-private collaboration among: the National Ca
 
 ### Contribute
 How are we contributing? At present, we're working on building machine learning pipelines that will:  
-1. Segment and Annotate Lung Anatomy
+
+1. Segment and Annotate Lung Anatomy Images
 2. Predict the age at which an image was taken
 3. Provide a 'future view' of a lung image.
