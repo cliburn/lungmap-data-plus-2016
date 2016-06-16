@@ -107,7 +107,7 @@ def download_n_files(results_list=[],n=None,basepath=None):
         root = os.path.basename(os.path.normpath(x.get('path').get('value')))
         s3objkey =  os.path.join(root,name,filename)
         if basepath is None:
-            basepath = '/Users/nn31/Dropbox/40-githubRrepos/lungmap-data-plus-2016/data'
+            basepath = '/Users/nn/Dropbox/40-githubRrepos/lungmap-data-plus-2016/data'
         filepath = os.path.join(basepath,root,name)
         if not os.path.exists(filepath):
             print('downloading ' + filename)
@@ -182,11 +182,11 @@ def bens_dict_2_flatfile(metadata_from_sparql):
                               },index=s3downloadkey)
     return(output)
         
-flat_file = bens_dict_2_flatfile(tif_files[0:21]) 
+flat_file = bens_dict_2_flatfile(tif_files) 
 #note that we now have the key to download from boto3
 #i.e. bucket.download_file(s3objkey, os.path.join(filepath, filename)) 
-#os.chdir('/Users/nn31/Dropbox/40-githubRrepos/lungmap-data-plus-2016/data') 
-flat_file.to_csv('metadata_dictionary.csv',index=False)    #this file ends up in os.getcwd()               
+os.chdir('/Users/nn/Dropbox/40-githubRrepos/lungmap-data-plus-2016/metadata') 
+flat_file.to_csv('00_metadata_dictionary.csv',index=False)    #this file ends up in os.getcwd()               
 #once you get to this point, go to http://www.lungmap.net/breath-experiment-browser/?visibletabs=LMXT0000000003
 #do we have all of the metadata that the website displays? combining everybody's contribution...                 
                      
