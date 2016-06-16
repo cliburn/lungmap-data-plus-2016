@@ -48,8 +48,8 @@ sparql.setReturnFormat(JSON)
 results = sparql.query().convert()
 
 len(results['results']['bindings'])
-x = results['results']['bindings'][842]
-x
+x = results['results']['bindings'][0]
+pp.pprint(x)
 ##############################################################################
 ############################################################################## 
 ############################################################################## 
@@ -66,29 +66,34 @@ regexp = re.compile("#(.*)$")
 #Here are the "variables that I want in my flat file:
 probe_label = []
 probe_id = []
-experiment = []
+experiment_id = []
 color = []
 target_conditions = [] 
 target_molecules = []
-
+z=0
 for i,x in enumerate(results['results']['bindings']):
     #first, I'll create my s3key name
     try:        
-        experiment.append(regexp.search(os.path.normpath(x.get('experiment_id').get('value'))).group(1))
+        experiment_id.append(regexp.search(os.path.normpath(x.get('experiment_id').get('value'))).group(1))
         probe_label.append(x.get('probe_label').get('value'))
         probe_id.append(regexp.search(os.path.normpath(x.get('probe_id').get('value'))).group(1))
         color.append(x.get('color').get('value'))
         target_conditions.append(x.get('target_conditions').get('value'))
-        target_molecules.append(regexp.search(os.path.normpath(x.get('target_molecules').get('value'))).group(1))
+        target_molecules.append(x.get('target_molecules').get('value'))
     except:
+        z += 1
         print(i)
-        print(x)
+        pp.pprint(x)
+    if z > 5:
+        break
 output = pd.DataFrame({  'probe_label' : probe_label,
                          'probe_id' : probe_id,
                          'color': color,
                          'target_conditions': target_conditions,
                          'target_molecules': target_molecules,
-                         'experiment' : experiment})
+                         'experiment' : experiment_id})
+#check the file from the meeting                       
+output.loc[output['experiment'].isin(['LMEX0000000004'])]
 #did we get everything?:
 output.shape[0]==len(results['results']['bindings'])
 output.to_csv('/Users/nn31/Dropbox/40-githubRrepos/lungmap-data-plus-2016/metadata/03_metadata_probe_antibody.csv',index=False)    
