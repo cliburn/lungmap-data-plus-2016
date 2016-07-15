@@ -1,0 +1,11 @@
+Structure,Bronchiole ,,,
+Age,E16.5,E18.5,P14,P28
+Blur,None,"im = cv2.GaussianBlur(im, (99,99),0)",,"im = cv2.GaussianBlur(im, (99,99),0)"
+color threshold,(mean_val[2]-10>mean_val[0] and mean_val[1]-2>mean_val[0]) and mean_val[0]<35,mean_val[0]<20 and mean_val[1]>20,,mean_val[0]>10 and mean_val[1]>30 and mean_val[2]>30
+Structure,Acinar Tubule,,,
+Age,E16.5,,,
+Blur (20X),"cv2.GaussianBlur(im, (33,33),0)",,,
+Blur (60X),"cv2.GaussianBlur(im, (93,93),0)",,,
+color threshold (if TTF is red),"np.array([68,0,50]), np.array([255,60,255])",,,
+color threshold (if TTF is green),"np.array([0,55,40]), np.array([60,255,255])",,,
+area threshold,400,,,
