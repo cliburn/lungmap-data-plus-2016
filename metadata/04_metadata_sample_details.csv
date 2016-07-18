@@ -1,633 +1,633 @@
-age_group,age_group_label,age_label,cause_of_death,crown_rump_length,experiment_id,genotype,harvest_date,health_status,local_id,organism_label,race,sample_id,sex,strain,tax_id,weight
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000661,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000264,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000602,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000604,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000606,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000608,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000628,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000244,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000245,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000247,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000250,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000251,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000252,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000253,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000254,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000255,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000256,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000257,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000259,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000260,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000268,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000273,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000276,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000283,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000285,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000286,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000294,,,No known lung disease,D001,homo sapiens,More than 1,LMSP0000000032,Female,,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000623,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000603,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000605,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000607,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000610,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000613,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000616,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000620,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000622,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000261,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000262,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000263,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000265,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000266,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000269,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000272,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000274,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000279,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000280,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000282,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000646,child,four years old,Trauma,,LMEX0000000284,,,No known lung disease,D007,homo sapiens,African_American,LMSP0000000034,Male,,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,four months old,Trauma,,LMEX0000000615,,,No known lung disease,D024,homo sapiens,Hispanic/Latino,LMSP0000000035,Male,,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,four months old,Trauma,,LMEX0000000619,,,No known lung disease,D024,homo sapiens,Hispanic/Latino,LMSP0000000035,Male,,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,four months old,Trauma,,LMEX0000000620,,,No known lung disease,D024,homo sapiens,Hispanic/Latino,LMSP0000000035,Male,,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,four months old,Trauma,,LMEX0000000621,,,No known lung disease,D024,homo sapiens,Hispanic/Latino,LMSP0000000035,Male,,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,four months old,Trauma,,LMEX0000000624,,,No known lung disease,D024,homo sapiens,Hispanic/Latino,LMSP0000000035,Male,,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,four months old,Trauma,,LMEX0000000626,,,No known lung disease,D024,homo sapiens,Hispanic/Latino,LMSP0000000035,Male,,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,four months old,Trauma,,LMEX0000000627,,,No known lung disease,D024,homo sapiens,Hispanic/Latino,LMSP0000000035,Male,,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,four months old,Trauma,,LMEX0000000271,,,No known lung disease,D024,homo sapiens,Hispanic/Latino,LMSP0000000035,Male,,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,four months old,Trauma,,LMEX0000000277,,,No known lung disease,D024,homo sapiens,Hispanic/Latino,LMSP0000000035,Male,,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,four months old,Trauma,,LMEX0000000278,,,No known lung disease,D024,homo sapiens,Hispanic/Latino,LMSP0000000035,Male,,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,four months old,Trauma,,LMEX0000000287,,,No known lung disease,D024,homo sapiens,Hispanic/Latino,LMSP0000000035,Male,,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,four months old,Trauma,,LMEX0000000675,,,No known lung disease,D024,homo sapiens,Hispanic/Latino,LMSP0000000035,Male,,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000625,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000601,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000609,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000611,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000612,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000614,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000617,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000618,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000246,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000248,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000249,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000258,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000267,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000270,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000275,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,nine months old,Anoxic/Hypoxic Brain Injury,,LMEX0000000281,,,No known lung disease,D003,homo sapiens,African_American,LMSP0000000033,Male,,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
-http://ontology.lungmap.net/ontologies/human_anatomy#LMHA0000000647,infant,,Anencephaly-brain anomaly,,LMEX0000000670,,,No known lung disease,D030,homo sapiens,White,LMSP0000000068,Female,,http://www.w3.org/2002/07/owl#taxid_9606,3.08 kg
-,,E16.5,,NA,LMEX0000000074,WT,NA,,BCM8756,mus musculus,,LMSP0000000003,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000297,WT,NA,,BCM8978,mus musculus,,LMSP0000000006,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000304,WT,NA,,BCM8978,mus musculus,,LMSP0000000006,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000310,WT,NA,,BCM8978,mus musculus,,LMSP0000000006,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000328,WT,NA,,BCM8978,mus musculus,,LMSP0000000006,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000346,WT,NA,,BCM8978,mus musculus,,LMSP0000000006,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000352,WT,NA,,BCM8978,mus musculus,,LMSP0000000006,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000358,WT,NA,,BCM8978,mus musculus,,LMSP0000000006,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000090,WT,NA,,BCM8979,mus musculus,,LMSP0000000007,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000096,WT,NA,,BCM8979,mus musculus,,LMSP0000000007,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000102,WT,NA,,BCM8979,mus musculus,,LMSP0000000007,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000108,WT,NA,,BCM8979,mus musculus,,LMSP0000000007,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000298,WT,NA,,BCM8979,mus musculus,,LMSP0000000007,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000316,WT,NA,,BCM8979,mus musculus,,LMSP0000000007,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000322,WT,NA,,BCM8979,mus musculus,,LMSP0000000007,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000334,WT,NA,,BCM8979,mus musculus,,LMSP0000000007,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000340,WT,NA,,BCM8979,mus musculus,,LMSP0000000007,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000114,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000120,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000126,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000132,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000138,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000144,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000150,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000156,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000162,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000168,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000174,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000192,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000198,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000204,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000210,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000187,WT,NA,,BCM8980,mus musculus,,LMSP0000000008,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000083,WT,NA,,BCM9017,mus musculus,,LMSP0000000016,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000181,WT,NA,,BCM9017,mus musculus,,LMSP0000000016,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000216,WT,NA,,BCM9017,mus musculus,,LMSP0000000016,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000221,WT,NA,,BCM9017,mus musculus,,LMSP0000000016,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000364,WT,NA,,BCM9017,mus musculus,,LMSP0000000016,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000371,WT,NA,,BCM9017,mus musculus,,LMSP0000000016,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000378,WT,NA,,BCM9017,mus musculus,,LMSP0000000016,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000385,WT,NA,,BCM9017,mus musculus,,LMSP0000000016,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000392,WT,NA,,BCM9017,mus musculus,,LMSP0000000016,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000399,WT,NA,,BCM9017,mus musculus,,LMSP0000000016,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000405,WT,NA,,BCM9017,mus musculus,,LMSP0000000016,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000411,WT,NA,,BCM9017,mus musculus,,LMSP0000000016,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000418,WT,NA,,BCM9017,mus musculus,,LMSP0000000016,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000424,WT,NA,,BCM9017,mus musculus,,LMSP0000000016,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000431,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000437,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000443,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000449,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000455,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000460,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000466,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000470,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000476,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000482,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000488,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000494,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000506,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000511,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000517,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000523,WT,NA,,BCM9018,mus musculus,,LMSP0000000017,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000500,WT,NA,,BCM9019,mus musculus,,LMSP0000000018,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000529,WT,NA,,BCM9019,mus musculus,,LMSP0000000018,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000535,WT,NA,,BCM9019,mus musculus,,LMSP0000000018,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000541,WT,NA,,BCM9019,mus musculus,,LMSP0000000018,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000547,WT,NA,,BCM9019,mus musculus,,LMSP0000000018,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000553,WT,NA,,BCM9019,mus musculus,,LMSP0000000018,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000559,WT,NA,,BCM9019,mus musculus,,LMSP0000000018,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000565,WT,NA,,BCM9019,mus musculus,,LMSP0000000018,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000365,WT,NA,,BCM9066,mus musculus,,LMSP0000000026,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000372,WT,NA,,BCM9066,mus musculus,,LMSP0000000026,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000379,WT,NA,,BCM9066,mus musculus,,LMSP0000000026,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000386,WT,NA,,BCM9066,mus musculus,,LMSP0000000026,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000393,WT,NA,,BCM9066,mus musculus,,LMSP0000000026,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000400,WT,NA,,BCM9066,mus musculus,,LMSP0000000026,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000412,WT,NA,,BCM9066,mus musculus,,LMSP0000000026,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,NA,LMEX0000000425,WT,NA,,BCM9066,mus musculus,,LMSP0000000026,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E16.5,,16 mm,LMEX0000000573,WT,7/31/2014,,LMM.14.24.4,mus musculus,,LMSP0000000036,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
-,,E16.5,,16 mm,LMEX0000000004,WT,7/31/2014,,LMM.14.24.4,mus musculus,,LMSP0000000036,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
-,,E16.5,,16 mm,LMEX0000000017,WT,7/31/2014,,LMM.14.24.4,mus musculus,,LMSP0000000036,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
-,,E16.5,,16 mm,LMEX0000000024,WT,7/31/2014,,LMM.14.24.4,mus musculus,,LMSP0000000036,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
-,,E16.5,,16 mm,LMEX0000000031,WT,7/31/2014,,LMM.14.24.4,mus musculus,,LMSP0000000036,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
-,,E16.5,,16 mm,LMEX0000000036,WT,7/31/2014,,LMM.14.24.4,mus musculus,,LMSP0000000036,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
-,,E16.5,,16 mm,LMEX0000000043,WT,7/31/2014,,LMM.14.24.4,mus musculus,,LMSP0000000036,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
-,,E16.5,,16 mm,LMEX0000000053,WT,7/31/2014,,LMM.14.24.4,mus musculus,,LMSP0000000036,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
-,,E16.5,,16 mm,LMEX0000000061,WT,7/31/2014,,LMM.14.24.4,mus musculus,,LMSP0000000036,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
-,,E16.5,,16 mm,LMEX0000000062,WT,7/31/2014,,LMM.14.24.4,mus musculus,,LMSP0000000036,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
-,,E16.5,,16 mm,LMEX0000000073,WT,7/31/2014,,LMM.14.24.4,mus musculus,,LMSP0000000036,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
-,,E16.5,,16 mm,LMEX0000000289,WT,7/31/2014,,LMM.14.24.4,mus musculus,,LMSP0000000036,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
-,,E16.5,,16.5 mm,LMEX0000000019,WT,7/31/2014,,LMM.14.24.8,mus musculus,,LMSP0000000037,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.644 g
-,,E16.5,,16.5 mm,LMEX0000000041,WT,7/31/2014,,LMM.14.24.8,mus musculus,,LMSP0000000037,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.644 g
-,,E16.5,,15 mm,LMEX0000000067,WT,8/22/2014,,LMM.14.36.1,mus musculus,,LMSP0000000039,Female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.54 g
-,,E16.5,,16 mm,LMEX0000000007,WT,12/12/2014,,LMM.14.57.4,mus musculus,,LMSP0000000044,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.574 g
-,,E16.5,,16 mm,LMEX0000000026,WT,12/12/2014,,LMM.14.57.4,mus musculus,,LMSP0000000044,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.574 g
-,,E16.5,,16 mm,LMEX0000000047,WT,12/12/2014,,LMM.14.57.4,mus musculus,,LMSP0000000044,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.574 g
-,,E16.5,,16 mm,LMEX0000000056,WT,12/12/2014,,LMM.14.57.4,mus musculus,,LMSP0000000044,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,0.574 g
-,,E18.5,,NA,LMEX0000000091,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000097,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000103,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000109,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000299,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000305,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000311,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000317,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000323,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000329,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000335,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000341,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000347,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000353,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000359,WT,NA,,BCM9029,mus musculus,,LMSP0000000019,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000115,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000121,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000127,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000133,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000139,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000145,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000151,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000157,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000163,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000169,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000175,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000188,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000193,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000199,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000205,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000211,WT,NA,,BCM9030,mus musculus,,LMSP0000000020,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000084,WT,NA,,BCM9031,mus musculus,,LMSP0000000021,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000182,WT,NA,,BCM9031,mus musculus,,LMSP0000000021,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000217,WT,NA,,BCM9031,mus musculus,,LMSP0000000021,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000222,WT,NA,,BCM9031,mus musculus,,LMSP0000000021,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000366,WT,NA,,BCM9031,mus musculus,,LMSP0000000021,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000373,WT,NA,,BCM9031,mus musculus,,LMSP0000000021,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000380,WT,NA,,BCM9031,mus musculus,,LMSP0000000021,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000387,WT,NA,,BCM9031,mus musculus,,LMSP0000000021,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000394,WT,NA,,BCM9031,mus musculus,,LMSP0000000021,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000401,WT,NA,,BCM9031,mus musculus,,LMSP0000000021,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000406,WT,NA,,BCM9031,mus musculus,,LMSP0000000021,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000413,WT,NA,,BCM9031,mus musculus,,LMSP0000000021,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000419,WT,NA,,BCM9031,mus musculus,,LMSP0000000021,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000426,WT,NA,,BCM9031,mus musculus,,LMSP0000000021,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000432,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000438,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000444,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000450,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000456,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000461,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000467,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000471,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000477,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000483,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000489,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000495,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000507,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000512,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000518,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000524,WT,NA,,BCM9032,mus musculus,,LMSP0000000022,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000530,WT,NA,,BCM9033,mus musculus,,LMSP0000000023,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000501,WT,NA,,BCM9075,mus musculus,,LMSP0000000027,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000536,WT,NA,,BCM9075,mus musculus,,LMSP0000000027,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000542,WT,NA,,BCM9075,mus musculus,,LMSP0000000027,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000548,WT,NA,,BCM9075,mus musculus,,LMSP0000000027,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000554,WT,NA,,BCM9075,mus musculus,,LMSP0000000027,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000560,WT,NA,,BCM9075,mus musculus,,LMSP0000000027,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000566,WT,NA,,BCM9075,mus musculus,,LMSP0000000027,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,21 mm,LMEX0000000592,WT,8/2/2014,,LMM.14.27.6,mus musculus,,LMSP0000000038,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.316 g
-,,E18.5,,21 mm,LMEX0000000049,WT,8/2/2014,,LMM.14.27.6,mus musculus,,LMSP0000000038,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.316 g
-,,E18.5,,21 mm,LMEX0000000051,WT,8/2/2014,,LMM.14.27.6,mus musculus,,LMSP0000000038,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.316 g
-,,E18.5,,21 mm,LMEX0000000071,WT,8/2/2014,,LMM.14.27.6,mus musculus,,LMSP0000000038,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.316 g
-,,E18.5,,21 mm,LMEX0000000006,WT,8/22/2014,,LMM.14.38.2,mus musculus,,LMSP0000000040,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.059 g
-,,E18.5,,21 mm,LMEX0000000025,WT,8/22/2014,,LMM.14.38.2,mus musculus,,LMSP0000000040,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.059 g
-,,E18.5,,21 mm,LMEX0000000030,WT,8/22/2014,,LMM.14.38.2,mus musculus,,LMSP0000000040,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.059 g
-,,E18.5,,21 mm,LMEX0000000059,WT,8/22/2014,,LMM.14.38.2,mus musculus,,LMSP0000000040,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.059 g
-,,E18.5,,21 mm,LMEX0000000020,WT,8/22/2014,,LMM.14.38.3,mus musculus,,LMSP0000000041,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.138 g
-,,E18.5,,21.5 mm,LMEX0000000039,WT,11/2/2014,,LMM.14.49.4,mus musculus,,LMSP0000000042,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.149 g
-,,E18.5,,22 mm,LMEX0000000003,WT,11/2/2014,,LMM.14.49.5,mus musculus,,LMSP0000000043,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
-,,E18.5,,22 mm,LMEX0000000015,WT,11/2/2014,,LMM.14.49.5,mus musculus,,LMSP0000000043,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
-,,E18.5,,22 mm,LMEX0000000029,WT,11/2/2014,,LMM.14.49.5,mus musculus,,LMSP0000000043,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
-,,E18.5,,22 mm,LMEX0000000034,WT,11/2/2014,,LMM.14.49.5,mus musculus,,LMSP0000000043,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
-,,E18.5,,22 mm,LMEX0000000044,WT,11/2/2014,,LMM.14.49.5,mus musculus,,LMSP0000000043,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
-,,E18.5,,22 mm,LMEX0000000055,WT,11/2/2014,,LMM.14.49.5,mus musculus,,LMSP0000000043,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
-,,E18.5,,22 mm,LMEX0000000063,WT,11/2/2014,,LMM.14.49.5,mus musculus,,LMSP0000000043,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
-,,E18.5,,22 mm,LMEX0000000068,WT,11/2/2014,,LMM.14.49.5,mus musculus,,LMSP0000000043,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
-,,E18.5,,22 mm,LMEX0000000288,WT,11/2/2014,,LMM.14.49.5,mus musculus,,LMSP0000000043,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
-,,E18.5,,NA,LMEX0000000684,WT,NA,,LMM.15.8961.8,mus musculus,,LMSP0000000059,Female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000690,WT,NA,,LMM.15.8961.8,mus musculus,,LMSP0000000059,Female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000664,WT,NA,,7788B,mus musculus,,LMSP0000000061,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000665,WT,NA,,0002A,mus musculus,,LMSP0000000062,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000662,Tg/Tg,NA,,7760A,mus musculus,,LMSP0000000066,unknown,Rosa26mTmG,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E18.5,,NA,LMEX0000000663,Tg/Tg,NA,,7783A,mus musculus,,LMSP0000000067,unknown,Rosa26mTmG,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000077,WT,NA,,BCM8835,mus musculus,,LMSP0000000005,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000092,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000093,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000098,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000099,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000104,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000105,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000110,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000111,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000116,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000122,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000128,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000134,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000140,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000146,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000152,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000158,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000164,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000170,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000176,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000189,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000300,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000301,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000306,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000307,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000312,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000313,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000318,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000319,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000324,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000325,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000330,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000331,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000336,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000337,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000342,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000343,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000348,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000349,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000354,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000355,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000360,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000361,WT,NA,,BCM9011,mus musculus,,LMSP0000000013,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000117,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000123,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000129,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000135,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000141,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000147,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000153,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000159,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000165,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000171,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000177,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000183,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000190,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000194,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000195,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000200,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000201,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000206,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000207,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000212,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000213,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000218,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000223,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000367,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000374,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000381,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000388,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000395,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000402,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000407,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000414,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000420,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000427,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000433,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000439,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000445,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000451,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000457,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000462,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000472,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000478,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000484,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000490,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000496,WT,NA,,BCM9012,mus musculus,,LMSP0000000014,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000086,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000184,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000224,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000368,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000375,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000382,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000389,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000396,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000403,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000408,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000415,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000421,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000428,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000502,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000513,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000519,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000525,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000531,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000537,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000543,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000549,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000555,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000561,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000567,WT,NA,,BCM9013,mus musculus,,LMSP0000000015,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000434,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000440,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000446,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000452,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000458,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000463,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000473,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000479,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000485,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000491,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000497,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000508,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000514,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000520,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000526,WT,NA,,BCM9046,mus musculus,,LMSP0000000024,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000503,WT,NA,,BCM9047,mus musculus,,LMSP0000000025,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000532,WT,NA,,BCM9047,mus musculus,,LMSP0000000025,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000538,WT,NA,,BCM9047,mus musculus,,LMSP0000000025,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000544,WT,NA,,BCM9047,mus musculus,,LMSP0000000025,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000550,WT,NA,,BCM9047,mus musculus,,LMSP0000000025,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000556,WT,NA,,BCM9047,mus musculus,,LMSP0000000025,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000562,WT,NA,,BCM9047,mus musculus,,LMSP0000000025,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000568,WT,NA,,BCM9047,mus musculus,,LMSP0000000025,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P28,,NA,LMEX0000000018,WT,1/26/2015,,LMM.15.16A.6,mus musculus,,LMSP0000000046,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10 g
-,,P28,,NA,LMEX0000000290,WT,1/26/2015,,LMM.15.16A.6,mus musculus,,LMSP0000000046,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10 g
-,,P28,,NA,LMEX0000000002,WT,1/27/2015,,LMM.15.20A.1,mus musculus,,LMSP0000000049,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
-,,P28,,NA,LMEX0000000027,WT,1/27/2015,,LMM.15.20A.1,mus musculus,,LMSP0000000049,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
-,,P28,,NA,LMEX0000000035,WT,1/27/2015,,LMM.15.20A.1,mus musculus,,LMSP0000000049,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
-,,P28,,NA,LMEX0000000040,WT,1/27/2015,,LMM.15.20A.1,mus musculus,,LMSP0000000049,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
-,,P28,,NA,LMEX0000000045,WT,1/27/2015,,LMM.15.20A.1,mus musculus,,LMSP0000000049,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
-,,P28,,NA,LMEX0000000058,WT,1/27/2015,,LMM.15.20A.1,mus musculus,,LMSP0000000049,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
-,,P28,,NA,LMEX0000000022,WT,1/27/2015,,LMM.15.20A.1,mus musculus,,LMSP0000000049,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
-,,P28,,NA,LMEX0000000065,WT,NA,,LMM.15.20A.5,mus musculus,,LMSP0000000050,Female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
-,,P28,,NA,LMEX0000000008,WT,3/2/2015,,LMM.15.24A.6,mus musculus,,LMSP0000000052,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10.5 g
-,,P28,,NA,LMEX0000000014,WT,3/2/2015,,LMM.15.24A.6,mus musculus,,LMSP0000000052,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10.5 g
-,,P28,,NA,LMEX0000000033,WT,3/2/2015,,LMM.15.24A.6,mus musculus,,LMSP0000000052,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10.5 g
-,,P28,,NA,LMEX0000000054,WT,3/2/2015,,LMM.15.24A.6,mus musculus,,LMSP0000000052,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10.5 g
-,,P28,,NA,LMEX0000000069,WT,3/2/2015,,LMM.15.24A.6,mus musculus,,LMSP0000000052,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10.5 g
-,,P28,,NA,LMEX0000000070,WT,3/2/2015,,LMM.15.24A.6,mus musculus,,LMSP0000000052,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,10.5 g
-,,P28,,NA,LMEX0000000594,WT,NA,,LMM.15.26A.1,mus musculus,,LMSP0000000053,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,12.4g
-,,P28,,NA,LMEX0000000667,WT,NA,,P28_2,mus musculus,,LMSP0000000064,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000076,WT,NA,,BCM8829,mus musculus,,LMSP0000000004,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000302,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000308,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000309,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000314,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000315,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000320,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000326,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000332,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000338,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000344,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000350,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000351,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000356,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000357,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000362,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000363,WT,NA,,BCM8995,mus musculus,,LMSP0000000009,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000094,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000095,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000100,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000106,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000112,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000118,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000124,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000130,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000136,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000142,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000148,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000154,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000160,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000166,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000172,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000303,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000321,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000327,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000333,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000339,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000345,WT,NA,,BCM8996,mus musculus,,LMSP0000000010,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000085,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000178,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000185,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000191,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000196,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000197,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000202,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000203,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000208,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000209,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000214,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000215,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000219,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000220,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000225,WT,NA,,BCM8997,mus musculus,,LMSP0000000011,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000101,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000107,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000113,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000119,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000125,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000131,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000137,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000143,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000149,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000155,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000161,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000167,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000173,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000179,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000369,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000376,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000383,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000390,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000397,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000409,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000416,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000422,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000429,WT,NA,,BCM8998,mus musculus,,LMSP0000000012,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000186,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000226,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000377,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000384,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000391,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000398,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000410,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000423,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000435,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000441,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000447,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000453,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000464,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000468,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000474,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000480,WT,NA,,BCM9111,mus musculus,,LMSP0000000028,female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000370,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000404,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000417,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000430,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000436,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000442,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000448,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000454,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000486,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000492,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000498,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000509,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000515,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000521,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000527,WT,NA,,BCM9112,mus musculus,,LMSP0000000029,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000459,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000465,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000469,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000475,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000481,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000487,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000493,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000499,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000504,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000510,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000516,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000522,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000528,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000533,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000534,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000539,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000540,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000545,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000546,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000551,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000552,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000557,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000563,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000569,WT,NA,,BCM9237,mus musculus,,LMSP0000000030,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000505,WT,NA,,BCM9238,mus musculus,,LMSP0000000031,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000558,WT,NA,,BCM9238,mus musculus,,LMSP0000000031,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000564,WT,NA,,BCM9238,mus musculus,,LMSP0000000031,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000570,WT,NA,,BCM9238,mus musculus,,LMSP0000000031,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P07,,NA,LMEX0000000291,WT,1/16/2015,,LMM.15.12A.8,mus musculus,,LMSP0000000045,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,3.1 g
-,,P07,,NA,LMEX0000000676,WT,1/16/2015,,LMM.15.12A.8,mus musculus,,LMSP0000000045,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,3.1 g
-,,P07,,NA,LMEX0000000005,WT,1/26/2015,,LMM.15.17A.5,mus musculus,,LMSP0000000047,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,4 g
-,,P07,,NA,LMEX0000000009,WT,1/26/2015,,LMM.15.17A.5,mus musculus,,LMSP0000000047,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,4 g
-,,P07,,NA,LMEX0000000028,WT,1/26/2015,,LMM.15.17A.5,mus musculus,,LMSP0000000047,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,4 g
-,,P07,,NA,LMEX0000000046,WT,1/26/2015,,LMM.15.17A.5,mus musculus,,LMSP0000000047,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,4 g
-,,P07,,NA,LMEX0000000052,WT,1/26/2015,,LMM.15.17A.5,mus musculus,,LMSP0000000047,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,4 g
-,,P07,,NA,LMEX0000000064,WT,1/26/2015,,LMM.15.17A.5,mus musculus,,LMSP0000000047,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,4 g
-,,P07,,NA,LMEX0000000023,WT,1/26/2015,,LMM.15.17A.5,mus musculus,,LMSP0000000047,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,4 g
-,,P07,,NA,LMEX0000000016,WT,2/23/2015,,LMM.15.23A.4,mus musculus,,LMSP0000000051,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
-,,P07,,NA,LMEX0000000021,WT,2/23/2015,,LMM.15.23A.4,mus musculus,,LMSP0000000051,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
-,,P07,,NA,LMEX0000000032,WT,2/23/2015,,LMM.15.23A.4,mus musculus,,LMSP0000000051,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
-,,P07,,NA,LMEX0000000037,WT,2/23/2015,,LMM.15.23A.4,mus musculus,,LMSP0000000051,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
-,,P07,,NA,LMEX0000000038,WT,2/23/2015,,LMM.15.23A.4,mus musculus,,LMSP0000000051,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
-,,P07,,NA,LMEX0000000042,WT,2/23/2015,,LMM.15.23A.4,mus musculus,,LMSP0000000051,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
-,,P07,,NA,LMEX0000000057,WT,2/23/2015,,LMM.15.23A.4,mus musculus,,LMSP0000000051,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
-,,P07,,NA,LMEX0000000060,WT,2/23/2015,,LMM.15.23A.4,mus musculus,,LMSP0000000051,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
-,,P07,,NA,LMEX0000000066,WT,2/23/2015,,LMM.15.23A.4,mus musculus,,LMSP0000000051,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
-,,P07,,NA,LMEX0000000072,WT,2/23/2015,,LMM.15.23A.4,mus musculus,,LMSP0000000051,male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
-,,P07,,NA,LMEX0000000668,WT,NA,,P7_2,mus musculus,,LMSP0000000065,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P01,,NA,LMEX0000000599,WT,NA,,LMM.15.66A.6,mus musculus,,LMSP0000000056,Female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
-,,P01,,NA,LMEX0000000572,WT,NA,,LMM.15.66A.6,mus musculus,,LMSP0000000056,Female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
-,,P01,,NA,LMEX0000000574,WT,NA,,LMM.15.66A.6,mus musculus,,LMSP0000000056,Female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
-,,P01,,NA,LMEX0000000576,WT,NA,,LMM.15.66A.6,mus musculus,,LMSP0000000056,Female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
-,,P01,,NA,LMEX0000000579,WT,NA,,LMM.15.66A.6,mus musculus,,LMSP0000000056,Female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
-,,P01,,NA,LMEX0000000585,WT,NA,,LMM.15.66A.6,mus musculus,,LMSP0000000056,Female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
-,,P01,,NA,LMEX0000000588,WT,NA,,LMM.15.66A.6,mus musculus,,LMSP0000000056,Female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
-,,P01,,NA,LMEX0000000595,WT,NA,,LMM.15.66A.6,mus musculus,,LMSP0000000056,Female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
-,,P01,,NA,LMEX0000000596,WT,NA,,LMM.15.66A.6,mus musculus,,LMSP0000000056,Female,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
-,,P01,,NA,LMEX0000000598,WT,NA,,LMM.15.69A.5,mus musculus,,LMSP0000000057,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
-,,P01,,NA,LMEX0000000575,WT,NA,,LMM.15.69A.5,mus musculus,,LMSP0000000057,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
-,,P01,,NA,LMEX0000000577,WT,NA,,LMM.15.69A.5,mus musculus,,LMSP0000000057,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
-,,P01,,NA,LMEX0000000580,WT,NA,,LMM.15.69A.5,mus musculus,,LMSP0000000057,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
-,,P01,,NA,LMEX0000000581,WT,NA,,LMM.15.69A.5,mus musculus,,LMSP0000000057,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
-,,P01,,NA,LMEX0000000582,WT,NA,,LMM.15.69A.5,mus musculus,,LMSP0000000057,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
-,,P01,,NA,LMEX0000000583,WT,NA,,LMM.15.69A.5,mus musculus,,LMSP0000000057,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
-,,P01,,NA,LMEX0000000584,WT,NA,,LMM.15.69A.5,mus musculus,,LMSP0000000057,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
-,,P01,,NA,LMEX0000000586,WT,NA,,LMM.15.69A.5,mus musculus,,LMSP0000000057,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
-,,P01,,NA,LMEX0000000587,WT,NA,,LMM.15.69A.5,mus musculus,,LMSP0000000057,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
-,,P01,,NA,LMEX0000000589,WT,NA,,LMM.15.69A.5,mus musculus,,LMSP0000000057,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
-,,P01,,NA,LMEX0000000685,WT,NA,,LMM.15.8750.12,mus musculus,,LMSP0000000058,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P01,,NA,LMEX0000000686,WT,NA,,LMM.15.8750.12,mus musculus,,LMSP0000000058,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P01,,NA,LMEX0000000687,WT,NA,,LMM.15.8750.12,mus musculus,,LMSP0000000058,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P01,,NA,LMEX0000000688,WT,NA,,LMM.15.8750.12,mus musculus,,LMSP0000000058,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P01,,NA,LMEX0000000689,WT,NA,,LMM.15.8750.12,mus musculus,,LMSP0000000058,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P01,,NA,LMEX0000000691,WT,NA,,LMM.15.8750.12,mus musculus,,LMSP0000000058,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P01,,NA,LMEX0000000692,WT,NA,,LMM.15.8750.12,mus musculus,,LMSP0000000058,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P01,,NA,LMEX0000000693,WT,NA,,LMM.15.8750.12,mus musculus,,LMSP0000000058,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P01,,NA,LMEX0000000694,WT,NA,,LMM.15.8750.12,mus musculus,,LMSP0000000058,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P01,,NA,LMEX0000000695,WT,NA,,LMM.15.8750.12,mus musculus,,LMSP0000000058,Male,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,P14,,NA,LMEX0000000593,WT,NA,,LMM.15.33A.6,mus musculus,,LMSP0000000054,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
-,,P14,,NA,LMEX0000000591,WT,NA,,LMM.15.33A.6,mus musculus,,LMSP0000000054,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
-,,P14,,NA,LMEX0000000231,WT,NA,,LMM.15.33A.6,mus musculus,,LMSP0000000054,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
-,,P14,,NA,LMEX0000000233,WT,NA,,LMM.15.33A.6,mus musculus,,LMSP0000000054,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
-,,P14,,NA,LMEX0000000236,WT,NA,,LMM.15.33A.6,mus musculus,,LMSP0000000054,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
-,,P14,,NA,LMEX0000000239,WT,NA,,LMM.15.33A.6,mus musculus,,LMSP0000000054,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
-,,P14,,NA,LMEX0000000240,WT,NA,,LMM.15.33A.6,mus musculus,,LMSP0000000054,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
-,,P14,,NA,LMEX0000000242,WT,NA,,LMM.15.33A.6,mus musculus,,LMSP0000000054,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
-,,P14,,NA,LMEX0000000600,WT,NA,,LMM.15.34A.5,mus musculus,,LMSP0000000055,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
-,,P14,,NA,LMEX0000000578,WT,NA,,LMM.15.34A.5,mus musculus,,LMSP0000000055,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
-,,P14,,NA,LMEX0000000590,WT,NA,,LMM.15.34A.5,mus musculus,,LMSP0000000055,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
-,,P14,,NA,LMEX0000000597,WT,NA,,LMM.15.34A.5,mus musculus,,LMSP0000000055,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
-,,P14,,NA,LMEX0000000228,WT,NA,,LMM.15.34A.5,mus musculus,,LMSP0000000055,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
-,,P14,,NA,LMEX0000000229,WT,NA,,LMM.15.34A.5,mus musculus,,LMSP0000000055,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
-,,P14,,NA,LMEX0000000230,WT,NA,,LMM.15.34A.5,mus musculus,,LMSP0000000055,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
-,,P14,,NA,LMEX0000000232,WT,NA,,LMM.15.34A.5,mus musculus,,LMSP0000000055,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
-,,P14,,NA,LMEX0000000234,WT,NA,,LMM.15.34A.5,mus musculus,,LMSP0000000055,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
-,,P14,,NA,LMEX0000000235,WT,NA,,LMM.15.34A.5,mus musculus,,LMSP0000000055,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
-,,P14,,NA,LMEX0000000237,WT,NA,,LMM.15.34A.5,mus musculus,,LMSP0000000055,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
-,,P14,,NA,LMEX0000000238,WT,NA,,LMM.15.34A.5,mus musculus,,LMSP0000000055,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
-,,P14,,NA,LMEX0000000241,WT,NA,,LMM.15.34A.5,mus musculus,,LMSP0000000055,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
-,,P14,,NA,LMEX0000000243,WT,NA,,LMM.15.34A.5,mus musculus,,LMSP0000000055,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
-,,P14,,NA,LMEX0000000666,WT,NA,,P14_1,mus musculus,,LMSP0000000063,Unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E14.5,,NA,LMEX0000000081,WT,NA,,N626,mus musculus,,LMSP0000000060,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E14.5,,NA,LMEX0000000075,WT,NA,,BCM7157,mus musculus,,LMSP0000000001,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
-,,E14.5,,NA,LMEX0000000082,WT,NA,,BCM7158,mus musculus,,LMSP0000000002,unknown,C57BL6,http://www.w3.org/2002/07/owl#taxid_10090,NA
+age_group_label,cause_of_death,crown_rump_length,experiment_id,genotype,harvest_date,health_status,local_id,race,sample_id,sex,tax_id,weight
+,,NA,LMEX0000000002,WT,1/27/2015,,LMM.15.20A.1,,LMSP0000000049,female,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
+,,22 mm,LMEX0000000003,WT,11/02/2014,,LMM.14.49.5,,LMSP0000000043,male,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
+,,16 mm,LMEX0000000004,WT,7/31/2014,,LMM.14.24.4,,LMSP0000000036,male,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
+,,NA,LMEX0000000005,WT,1/26/2015,,LMM.15.17A.5,,LMSP0000000047,male,http://www.w3.org/2002/07/owl#taxid_10090,4 g
+,,21 mm,LMEX0000000006,WT,8/22/2014,,LMM.14.38.2,,LMSP0000000040,male,http://www.w3.org/2002/07/owl#taxid_10090,1.059 g
+,,16 mm,LMEX0000000007,WT,12/12/2014,,LMM.14.57.4,,LMSP0000000044,female,http://www.w3.org/2002/07/owl#taxid_10090,0.574 g
+,,NA,LMEX0000000008,WT,03/02/2015,,LMM.15.24A.6,,LMSP0000000052,male,http://www.w3.org/2002/07/owl#taxid_10090,10.5 g
+,,NA,LMEX0000000009,WT,1/26/2015,,LMM.15.17A.5,,LMSP0000000047,male,http://www.w3.org/2002/07/owl#taxid_10090,4 g
+,,NA,LMEX0000000014,WT,03/02/2015,,LMM.15.24A.6,,LMSP0000000052,male,http://www.w3.org/2002/07/owl#taxid_10090,10.5 g
+,,22 mm,LMEX0000000015,WT,11/02/2014,,LMM.14.49.5,,LMSP0000000043,male,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
+,,NA,LMEX0000000016,WT,2/23/2015,,LMM.15.23A.4,,LMSP0000000051,male,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
+,,16 mm,LMEX0000000017,WT,7/31/2014,,LMM.14.24.4,,LMSP0000000036,male,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
+,,NA,LMEX0000000018,WT,1/26/2015,,LMM.15.16A.6,,LMSP0000000046,female,http://www.w3.org/2002/07/owl#taxid_10090,10 g
+,,16.5 mm,LMEX0000000019,WT,7/31/2014,,LMM.14.24.8,,LMSP0000000037,male,http://www.w3.org/2002/07/owl#taxid_10090,0.644 g
+,,21 mm,LMEX0000000020,WT,8/22/2014,,LMM.14.38.3,,LMSP0000000041,male,http://www.w3.org/2002/07/owl#taxid_10090,1.138 g
+,,NA,LMEX0000000021,WT,2/23/2015,,LMM.15.23A.4,,LMSP0000000051,male,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
+,,NA,LMEX0000000022,WT,1/27/2015,,LMM.15.20A.1,,LMSP0000000049,female,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
+,,NA,LMEX0000000023,WT,1/26/2015,,LMM.15.17A.5,,LMSP0000000047,male,http://www.w3.org/2002/07/owl#taxid_10090,4 g
+,,16 mm,LMEX0000000024,WT,7/31/2014,,LMM.14.24.4,,LMSP0000000036,male,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
+,,21 mm,LMEX0000000025,WT,8/22/2014,,LMM.14.38.2,,LMSP0000000040,male,http://www.w3.org/2002/07/owl#taxid_10090,1.059 g
+,,16 mm,LMEX0000000026,WT,12/12/2014,,LMM.14.57.4,,LMSP0000000044,female,http://www.w3.org/2002/07/owl#taxid_10090,0.574 g
+,,NA,LMEX0000000027,WT,1/27/2015,,LMM.15.20A.1,,LMSP0000000049,female,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
+,,NA,LMEX0000000028,WT,1/26/2015,,LMM.15.17A.5,,LMSP0000000047,male,http://www.w3.org/2002/07/owl#taxid_10090,4 g
+,,22 mm,LMEX0000000029,WT,11/02/2014,,LMM.14.49.5,,LMSP0000000043,male,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
+,,21 mm,LMEX0000000030,WT,8/22/2014,,LMM.14.38.2,,LMSP0000000040,male,http://www.w3.org/2002/07/owl#taxid_10090,1.059 g
+,,16 mm,LMEX0000000031,WT,7/31/2014,,LMM.14.24.4,,LMSP0000000036,male,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
+,,NA,LMEX0000000032,WT,2/23/2015,,LMM.15.23A.4,,LMSP0000000051,male,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
+,,NA,LMEX0000000033,WT,03/02/2015,,LMM.15.24A.6,,LMSP0000000052,male,http://www.w3.org/2002/07/owl#taxid_10090,10.5 g
+,,22 mm,LMEX0000000034,WT,11/02/2014,,LMM.14.49.5,,LMSP0000000043,male,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
+,,NA,LMEX0000000035,WT,1/27/2015,,LMM.15.20A.1,,LMSP0000000049,female,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
+,,16 mm,LMEX0000000036,WT,7/31/2014,,LMM.14.24.4,,LMSP0000000036,male,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
+,,NA,LMEX0000000037,WT,2/23/2015,,LMM.15.23A.4,,LMSP0000000051,male,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
+,,NA,LMEX0000000038,WT,2/23/2015,,LMM.15.23A.4,,LMSP0000000051,male,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
+,,21.5 mm,LMEX0000000039,WT,11/02/2014,,LMM.14.49.4,,LMSP0000000042,female,http://www.w3.org/2002/07/owl#taxid_10090,1.149 g
+,,NA,LMEX0000000040,WT,1/27/2015,,LMM.15.20A.1,,LMSP0000000049,female,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
+,,16.5 mm,LMEX0000000041,WT,7/31/2014,,LMM.14.24.8,,LMSP0000000037,male,http://www.w3.org/2002/07/owl#taxid_10090,0.644 g
+,,NA,LMEX0000000042,WT,2/23/2015,,LMM.15.23A.4,,LMSP0000000051,male,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
+,,16 mm,LMEX0000000043,WT,7/31/2014,,LMM.14.24.4,,LMSP0000000036,male,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
+,,22 mm,LMEX0000000044,WT,11/02/2014,,LMM.14.49.5,,LMSP0000000043,male,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
+,,NA,LMEX0000000045,WT,1/27/2015,,LMM.15.20A.1,,LMSP0000000049,female,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
+,,NA,LMEX0000000046,WT,1/26/2015,,LMM.15.17A.5,,LMSP0000000047,male,http://www.w3.org/2002/07/owl#taxid_10090,4 g
+,,16 mm,LMEX0000000047,WT,12/12/2014,,LMM.14.57.4,,LMSP0000000044,female,http://www.w3.org/2002/07/owl#taxid_10090,0.574 g
+,,21 mm,LMEX0000000049,WT,08/02/2014,,LMM.14.27.6,,LMSP0000000038,male,http://www.w3.org/2002/07/owl#taxid_10090,1.316 g
+,,21 mm,LMEX0000000051,WT,08/02/2014,,LMM.14.27.6,,LMSP0000000038,male,http://www.w3.org/2002/07/owl#taxid_10090,1.316 g
+,,NA,LMEX0000000052,WT,1/26/2015,,LMM.15.17A.5,,LMSP0000000047,male,http://www.w3.org/2002/07/owl#taxid_10090,4 g
+,,16 mm,LMEX0000000053,WT,7/31/2014,,LMM.14.24.4,,LMSP0000000036,male,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
+,,NA,LMEX0000000054,WT,03/02/2015,,LMM.15.24A.6,,LMSP0000000052,male,http://www.w3.org/2002/07/owl#taxid_10090,10.5 g
+,,22 mm,LMEX0000000055,WT,11/02/2014,,LMM.14.49.5,,LMSP0000000043,male,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
+,,16 mm,LMEX0000000056,WT,12/12/2014,,LMM.14.57.4,,LMSP0000000044,female,http://www.w3.org/2002/07/owl#taxid_10090,0.574 g
+,,NA,LMEX0000000057,WT,2/23/2015,,LMM.15.23A.4,,LMSP0000000051,male,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
+,,NA,LMEX0000000058,WT,1/27/2015,,LMM.15.20A.1,,LMSP0000000049,female,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
+,,21 mm,LMEX0000000059,WT,8/22/2014,,LMM.14.38.2,,LMSP0000000040,male,http://www.w3.org/2002/07/owl#taxid_10090,1.059 g
+,,NA,LMEX0000000060,WT,2/23/2015,,LMM.15.23A.4,,LMSP0000000051,male,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
+,,16 mm,LMEX0000000061,WT,7/31/2014,,LMM.14.24.4,,LMSP0000000036,male,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
+,,16 mm,LMEX0000000062,WT,7/31/2014,,LMM.14.24.4,,LMSP0000000036,male,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
+,,22 mm,LMEX0000000063,WT,11/02/2014,,LMM.14.49.5,,LMSP0000000043,male,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
+,,NA,LMEX0000000064,WT,1/26/2015,,LMM.15.17A.5,,LMSP0000000047,male,http://www.w3.org/2002/07/owl#taxid_10090,4 g
+,,NA,LMEX0000000065,WT,NA,,LMM.15.20A.5,,LMSP0000000050,Female,http://www.w3.org/2002/07/owl#taxid_10090,10.2 g
+,,NA,LMEX0000000066,WT,2/23/2015,,LMM.15.23A.4,,LMSP0000000051,male,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
+,,15 mm,LMEX0000000067,WT,8/22/2014,,LMM.14.36.1,,LMSP0000000039,Female,http://www.w3.org/2002/07/owl#taxid_10090,0.54 g
+,,22 mm,LMEX0000000068,WT,11/02/2014,,LMM.14.49.5,,LMSP0000000043,male,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
+,,NA,LMEX0000000069,WT,03/02/2015,,LMM.15.24A.6,,LMSP0000000052,male,http://www.w3.org/2002/07/owl#taxid_10090,10.5 g
+,,NA,LMEX0000000070,WT,03/02/2015,,LMM.15.24A.6,,LMSP0000000052,male,http://www.w3.org/2002/07/owl#taxid_10090,10.5 g
+,,21 mm,LMEX0000000071,WT,08/02/2014,,LMM.14.27.6,,LMSP0000000038,male,http://www.w3.org/2002/07/owl#taxid_10090,1.316 g
+,,NA,LMEX0000000072,WT,2/23/2015,,LMM.15.23A.4,,LMSP0000000051,male,http://www.w3.org/2002/07/owl#taxid_10090,3.3 g
+,,16 mm,LMEX0000000073,WT,7/31/2014,,LMM.14.24.4,,LMSP0000000036,male,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
+,,NA,LMEX0000000074,WT,NA,,BCM8756,,LMSP0000000003,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000075,WT,NA,,BCM7157,,LMSP0000000001,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000076,WT,NA,,BCM8829,,LMSP0000000004,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000077,WT,NA,,BCM8835,,LMSP0000000005,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000081,WT,NA,,N626,,LMSP0000000060,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000082,WT,NA,,BCM7158,,LMSP0000000002,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000083,WT,NA,,BCM9017,,LMSP0000000016,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000084,WT,NA,,BCM9031,,LMSP0000000021,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000085,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000086,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000090,WT,NA,,BCM8979,,LMSP0000000007,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000091,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000092,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000093,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000094,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000095,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000096,WT,NA,,BCM8979,,LMSP0000000007,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000097,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000098,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000099,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000100,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000101,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000102,WT,NA,,BCM8979,,LMSP0000000007,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000103,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000104,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000105,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000106,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000107,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000108,WT,NA,,BCM8979,,LMSP0000000007,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000109,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000110,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000111,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000112,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000113,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000114,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000115,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000116,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000117,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000118,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000119,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000120,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000121,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000122,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000123,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000124,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000125,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000126,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000127,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000128,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000129,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000130,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000131,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000132,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000133,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000134,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000135,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000136,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000137,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000138,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000139,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000140,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000141,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000142,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000143,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000144,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000145,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000146,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000147,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000148,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000149,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000150,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000151,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000152,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000153,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000154,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000155,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000156,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000157,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000158,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000159,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000160,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000161,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000162,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000163,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000164,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000165,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000166,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000167,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000168,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000169,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000170,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000171,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000172,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000173,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000174,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000175,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000176,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000177,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000178,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000179,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000181,WT,NA,,BCM9017,,LMSP0000000016,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000182,WT,NA,,BCM9031,,LMSP0000000021,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000183,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000184,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000185,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000186,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000187,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000188,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000189,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000190,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000191,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000192,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000193,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000194,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000195,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000196,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000197,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000198,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000199,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000200,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000201,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000202,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000203,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000204,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000205,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000206,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000207,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000208,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000209,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000210,WT,NA,,BCM8980,,LMSP0000000008,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000211,WT,NA,,BCM9030,,LMSP0000000020,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000212,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000213,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000214,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000215,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000216,WT,NA,,BCM9017,,LMSP0000000016,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000217,WT,NA,,BCM9031,,LMSP0000000021,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000218,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000219,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000220,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000221,WT,NA,,BCM9017,,LMSP0000000016,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000222,WT,NA,,BCM9031,,LMSP0000000021,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000223,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000224,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000225,WT,NA,,BCM8997,,LMSP0000000011,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000226,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000228,WT,NA,,LMM.15.34A.5,,LMSP0000000055,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
+,,NA,LMEX0000000229,WT,NA,,LMM.15.34A.5,,LMSP0000000055,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
+,,NA,LMEX0000000230,WT,NA,,LMM.15.34A.5,,LMSP0000000055,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
+,,NA,LMEX0000000231,WT,NA,,LMM.15.33A.6,,LMSP0000000054,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
+,,NA,LMEX0000000232,WT,NA,,LMM.15.34A.5,,LMSP0000000055,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
+,,NA,LMEX0000000233,WT,NA,,LMM.15.33A.6,,LMSP0000000054,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
+,,NA,LMEX0000000234,WT,NA,,LMM.15.34A.5,,LMSP0000000055,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
+,,NA,LMEX0000000235,WT,NA,,LMM.15.34A.5,,LMSP0000000055,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
+,,NA,LMEX0000000236,WT,NA,,LMM.15.33A.6,,LMSP0000000054,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
+,,NA,LMEX0000000237,WT,NA,,LMM.15.34A.5,,LMSP0000000055,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
+,,NA,LMEX0000000238,WT,NA,,LMM.15.34A.5,,LMSP0000000055,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
+,,NA,LMEX0000000239,WT,NA,,LMM.15.33A.6,,LMSP0000000054,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
+,,NA,LMEX0000000240,WT,NA,,LMM.15.33A.6,,LMSP0000000054,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
+,,NA,LMEX0000000241,WT,NA,,LMM.15.34A.5,,LMSP0000000055,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
+,,NA,LMEX0000000242,WT,NA,,LMM.15.33A.6,,LMSP0000000054,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
+,,NA,LMEX0000000243,WT,NA,,LMM.15.34A.5,,LMSP0000000055,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
+child,Trauma,,LMEX0000000244,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000245,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000246,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+child,Trauma,,LMEX0000000247,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000248,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000249,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+child,Trauma,,LMEX0000000250,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000251,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000252,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000253,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000254,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000255,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000256,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000257,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000258,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+child,Trauma,,LMEX0000000259,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000260,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000261,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+child,Trauma,,LMEX0000000262,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+child,Trauma,,LMEX0000000263,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+child,Trauma,,LMEX0000000264,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000265,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+child,Trauma,,LMEX0000000266,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000267,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+child,Trauma,,LMEX0000000268,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000269,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000270,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+infant,Trauma,,LMEX0000000271,,,No known lung disease,D024,Hispanic/Latino,LMSP0000000035,Male,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
+child,Trauma,,LMEX0000000272,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+child,Trauma,,LMEX0000000273,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000274,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000275,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+child,Trauma,,LMEX0000000276,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+infant,Trauma,,LMEX0000000277,,,No known lung disease,D024,Hispanic/Latino,LMSP0000000035,Male,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
+infant,Trauma,,LMEX0000000278,,,No known lung disease,D024,Hispanic/Latino,LMSP0000000035,Male,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
+child,Trauma,,LMEX0000000279,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+child,Trauma,,LMEX0000000280,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000281,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+child,Trauma,,LMEX0000000282,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+child,Trauma,,LMEX0000000283,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000284,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+child,Trauma,,LMEX0000000285,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000286,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+infant,Trauma,,LMEX0000000287,,,No known lung disease,D024,Hispanic/Latino,LMSP0000000035,Male,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
+,,22 mm,LMEX0000000288,WT,11/02/2014,,LMM.14.49.5,,LMSP0000000043,male,http://www.w3.org/2002/07/owl#taxid_10090,1.168 g
+,,16 mm,LMEX0000000289,WT,7/31/2014,,LMM.14.24.4,,LMSP0000000036,male,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
+,,NA,LMEX0000000290,WT,1/26/2015,,LMM.15.16A.6,,LMSP0000000046,female,http://www.w3.org/2002/07/owl#taxid_10090,10 g
+,,NA,LMEX0000000291,WT,1/16/2015,,LMM.15.12A.8,,LMSP0000000045,Male,http://www.w3.org/2002/07/owl#taxid_10090,3.1 g
+child,Trauma,,LMEX0000000294,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+,,NA,LMEX0000000297,WT,NA,,BCM8978,,LMSP0000000006,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000298,WT,NA,,BCM8979,,LMSP0000000007,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000299,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000300,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000301,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000302,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000303,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000304,WT,NA,,BCM8978,,LMSP0000000006,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000305,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000306,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000307,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000308,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000309,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000310,WT,NA,,BCM8978,,LMSP0000000006,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000311,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000312,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000313,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000314,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000315,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000316,WT,NA,,BCM8979,,LMSP0000000007,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000317,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000318,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000319,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000320,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000321,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000322,WT,NA,,BCM8979,,LMSP0000000007,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000323,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000324,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000325,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000326,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000327,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000328,WT,NA,,BCM8978,,LMSP0000000006,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000329,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000330,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000331,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000332,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000333,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000334,WT,NA,,BCM8979,,LMSP0000000007,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000335,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000336,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000337,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000338,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000339,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000340,WT,NA,,BCM8979,,LMSP0000000007,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000341,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000342,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000343,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000344,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000345,WT,NA,,BCM8996,,LMSP0000000010,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000346,WT,NA,,BCM8978,,LMSP0000000006,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000347,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000348,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000349,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000350,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000351,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000352,WT,NA,,BCM8978,,LMSP0000000006,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000353,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000354,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000355,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000356,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000357,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000358,WT,NA,,BCM8978,,LMSP0000000006,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000359,WT,NA,,BCM9029,,LMSP0000000019,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000360,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000361,WT,NA,,BCM9011,,LMSP0000000013,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000362,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000363,WT,NA,,BCM8995,,LMSP0000000009,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000364,WT,NA,,BCM9017,,LMSP0000000016,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000365,WT,NA,,BCM9066,,LMSP0000000026,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000366,WT,NA,,BCM9031,,LMSP0000000021,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000367,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000368,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000369,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000370,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000371,WT,NA,,BCM9017,,LMSP0000000016,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000372,WT,NA,,BCM9066,,LMSP0000000026,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000373,WT,NA,,BCM9031,,LMSP0000000021,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000374,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000375,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000376,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000377,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000378,WT,NA,,BCM9017,,LMSP0000000016,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000379,WT,NA,,BCM9066,,LMSP0000000026,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000380,WT,NA,,BCM9031,,LMSP0000000021,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000381,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000382,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000383,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000384,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000385,WT,NA,,BCM9017,,LMSP0000000016,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000386,WT,NA,,BCM9066,,LMSP0000000026,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000387,WT,NA,,BCM9031,,LMSP0000000021,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000388,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000389,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000390,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000391,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000392,WT,NA,,BCM9017,,LMSP0000000016,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000393,WT,NA,,BCM9066,,LMSP0000000026,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000394,WT,NA,,BCM9031,,LMSP0000000021,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000395,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000396,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000397,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000398,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000399,WT,NA,,BCM9017,,LMSP0000000016,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000400,WT,NA,,BCM9066,,LMSP0000000026,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000401,WT,NA,,BCM9031,,LMSP0000000021,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000402,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000403,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000404,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000405,WT,NA,,BCM9017,,LMSP0000000016,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000406,WT,NA,,BCM9031,,LMSP0000000021,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000407,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000408,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000409,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000410,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000411,WT,NA,,BCM9017,,LMSP0000000016,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000412,WT,NA,,BCM9066,,LMSP0000000026,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000413,WT,NA,,BCM9031,,LMSP0000000021,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000414,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000415,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000416,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000417,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000418,WT,NA,,BCM9017,,LMSP0000000016,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000419,WT,NA,,BCM9031,,LMSP0000000021,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000420,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000421,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000422,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000423,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000424,WT,NA,,BCM9017,,LMSP0000000016,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000425,WT,NA,,BCM9066,,LMSP0000000026,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000426,WT,NA,,BCM9031,,LMSP0000000021,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000427,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000428,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000429,WT,NA,,BCM8998,,LMSP0000000012,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000430,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000431,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000432,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000433,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000434,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000435,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000436,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000437,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000438,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000439,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000440,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000441,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000442,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000443,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000444,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000445,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000446,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000447,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000448,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000449,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000450,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000451,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000452,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000453,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000454,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000455,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000456,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000457,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000458,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000459,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000460,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000461,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000462,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000463,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000464,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000465,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000466,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000467,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000468,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000469,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000470,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000471,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000472,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000473,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000474,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000475,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000476,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000477,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000478,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000479,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000480,WT,NA,,BCM9111,,LMSP0000000028,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000481,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000482,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000483,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000484,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000485,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000486,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000487,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000488,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000489,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000490,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000491,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000492,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000493,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000494,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000495,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000496,WT,NA,,BCM9012,,LMSP0000000014,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000497,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000498,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000499,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000500,WT,NA,,BCM9019,,LMSP0000000018,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000501,WT,NA,,BCM9075,,LMSP0000000027,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000502,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000503,WT,NA,,BCM9047,,LMSP0000000025,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000504,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000505,WT,NA,,BCM9238,,LMSP0000000031,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000506,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000507,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000508,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000509,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000510,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000511,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000512,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000513,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000514,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000515,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000516,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000517,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000518,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000519,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000520,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000521,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000522,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000523,WT,NA,,BCM9018,,LMSP0000000017,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000524,WT,NA,,BCM9032,,LMSP0000000022,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000525,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000526,WT,NA,,BCM9046,,LMSP0000000024,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000527,WT,NA,,BCM9112,,LMSP0000000029,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000528,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000529,WT,NA,,BCM9019,,LMSP0000000018,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000530,WT,NA,,BCM9033,,LMSP0000000023,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000531,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000532,WT,NA,,BCM9047,,LMSP0000000025,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000533,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000534,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000535,WT,NA,,BCM9019,,LMSP0000000018,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000536,WT,NA,,BCM9075,,LMSP0000000027,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000537,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000538,WT,NA,,BCM9047,,LMSP0000000025,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000539,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000540,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000541,WT,NA,,BCM9019,,LMSP0000000018,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000542,WT,NA,,BCM9075,,LMSP0000000027,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000543,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000544,WT,NA,,BCM9047,,LMSP0000000025,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000545,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000546,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000547,WT,NA,,BCM9019,,LMSP0000000018,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000548,WT,NA,,BCM9075,,LMSP0000000027,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000549,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000550,WT,NA,,BCM9047,,LMSP0000000025,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000551,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000552,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000553,WT,NA,,BCM9019,,LMSP0000000018,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000554,WT,NA,,BCM9075,,LMSP0000000027,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000555,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000556,WT,NA,,BCM9047,,LMSP0000000025,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000557,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000558,WT,NA,,BCM9238,,LMSP0000000031,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000559,WT,NA,,BCM9019,,LMSP0000000018,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000560,WT,NA,,BCM9075,,LMSP0000000027,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000561,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000562,WT,NA,,BCM9047,,LMSP0000000025,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000563,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000564,WT,NA,,BCM9238,,LMSP0000000031,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000565,WT,NA,,BCM9019,,LMSP0000000018,female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000566,WT,NA,,BCM9075,,LMSP0000000027,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000567,WT,NA,,BCM9013,,LMSP0000000015,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000568,WT,NA,,BCM9047,,LMSP0000000025,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000569,WT,NA,,BCM9237,,LMSP0000000030,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000570,WT,NA,,BCM9238,,LMSP0000000031,male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000572,WT,NA,,LMM.15.66A.6,,LMSP0000000056,Female,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
+,,16 mm,LMEX0000000573,WT,7/31/2014,,LMM.14.24.4,,LMSP0000000036,male,http://www.w3.org/2002/07/owl#taxid_10090,0.592 g
+,,NA,LMEX0000000574,WT,NA,,LMM.15.66A.6,,LMSP0000000056,Female,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
+,,NA,LMEX0000000575,WT,NA,,LMM.15.69A.5,,LMSP0000000057,Male,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
+,,NA,LMEX0000000576,WT,NA,,LMM.15.66A.6,,LMSP0000000056,Female,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
+,,NA,LMEX0000000577,WT,NA,,LMM.15.69A.5,,LMSP0000000057,Male,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
+,,NA,LMEX0000000578,WT,NA,,LMM.15.34A.5,,LMSP0000000055,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
+,,NA,LMEX0000000579,WT,NA,,LMM.15.66A.6,,LMSP0000000056,Female,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
+,,NA,LMEX0000000580,WT,NA,,LMM.15.69A.5,,LMSP0000000057,Male,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
+,,NA,LMEX0000000581,WT,NA,,LMM.15.69A.5,,LMSP0000000057,Male,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
+,,NA,LMEX0000000582,WT,NA,,LMM.15.69A.5,,LMSP0000000057,Male,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
+,,NA,LMEX0000000583,WT,NA,,LMM.15.69A.5,,LMSP0000000057,Male,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
+,,NA,LMEX0000000584,WT,NA,,LMM.15.69A.5,,LMSP0000000057,Male,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
+,,NA,LMEX0000000585,WT,NA,,LMM.15.66A.6,,LMSP0000000056,Female,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
+,,NA,LMEX0000000586,WT,NA,,LMM.15.69A.5,,LMSP0000000057,Male,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
+,,NA,LMEX0000000587,WT,NA,,LMM.15.69A.5,,LMSP0000000057,Male,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
+,,NA,LMEX0000000588,WT,NA,,LMM.15.66A.6,,LMSP0000000056,Female,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
+,,NA,LMEX0000000589,WT,NA,,LMM.15.69A.5,,LMSP0000000057,Male,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
+,,NA,LMEX0000000590,WT,NA,,LMM.15.34A.5,,LMSP0000000055,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
+,,NA,LMEX0000000591,WT,NA,,LMM.15.33A.6,,LMSP0000000054,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
+,,21 mm,LMEX0000000592,WT,08/02/2014,,LMM.14.27.6,,LMSP0000000038,male,http://www.w3.org/2002/07/owl#taxid_10090,1.316 g
+,,NA,LMEX0000000593,WT,NA,,LMM.15.33A.6,,LMSP0000000054,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,6.75g
+,,NA,LMEX0000000594,WT,NA,,LMM.15.26A.1,,LMSP0000000053,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,12.4g
+,,NA,LMEX0000000595,WT,NA,,LMM.15.66A.6,,LMSP0000000056,Female,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
+,,NA,LMEX0000000596,WT,NA,,LMM.15.66A.6,,LMSP0000000056,Female,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
+,,NA,LMEX0000000597,WT,NA,,LMM.15.34A.5,,LMSP0000000055,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
+,,NA,LMEX0000000598,WT,NA,,LMM.15.69A.5,,LMSP0000000057,Male,http://www.w3.org/2002/07/owl#taxid_10090,1.36g
+,,NA,LMEX0000000599,WT,NA,,LMM.15.66A.6,,LMSP0000000056,Female,http://www.w3.org/2002/07/owl#taxid_10090,1.14g
+,,NA,LMEX0000000600,WT,NA,,LMM.15.34A.5,,LMSP0000000055,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,5.91g
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000601,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+child,Trauma,,LMEX0000000602,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000603,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+child,Trauma,,LMEX0000000604,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000605,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+child,Trauma,,LMEX0000000606,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000607,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+child,Trauma,,LMEX0000000608,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000609,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+child,Trauma,,LMEX0000000610,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000611,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000612,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+child,Trauma,,LMEX0000000613,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000614,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+infant,Trauma,,LMEX0000000615,,,No known lung disease,D024,Hispanic/Latino,LMSP0000000035,Male,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
+child,Trauma,,LMEX0000000616,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000617,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000618,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+infant,Trauma,,LMEX0000000619,,,No known lung disease,D024,Hispanic/Latino,LMSP0000000035,Male,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
+infant,Trauma,,LMEX0000000620,,,No known lung disease,D024,Hispanic/Latino,LMSP0000000035,Male,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
+child,Trauma,,LMEX0000000620,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+infant,Trauma,,LMEX0000000621,,,No known lung disease,D024,Hispanic/Latino,LMSP0000000035,Male,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
+child,Trauma,,LMEX0000000622,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+child,Trauma,,LMEX0000000623,,,No known lung disease,D007,African_American,LMSP0000000034,Male,http://www.w3.org/2002/07/owl#taxid_9606,15.42 kg
+infant,Trauma,,LMEX0000000624,,,No known lung disease,D024,Hispanic/Latino,LMSP0000000035,Male,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
+infant,Anoxic/Hypoxic Brain Injury,,LMEX0000000625,,,No known lung disease,D003,African_American,LMSP0000000033,Male,http://www.w3.org/2002/07/owl#taxid_9606,10.43 kg
+infant,Trauma,,LMEX0000000626,,,No known lung disease,D024,Hispanic/Latino,LMSP0000000035,Male,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
+infant,Trauma,,LMEX0000000627,,,No known lung disease,D024,Hispanic/Latino,LMSP0000000035,Male,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
+child,Trauma,,LMEX0000000628,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+child,Trauma,,LMEX0000000661,,,No known lung disease,D001,More than 1,LMSP0000000032,Female,http://www.w3.org/2002/07/owl#taxid_9606,13 kg
+,,NA,LMEX0000000662,Tg/Tg,NA,,7760A,,LMSP0000000066,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000663,Tg/Tg,NA,,7783A,,LMSP0000000067,unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000664,WT,NA,,7788B,,LMSP0000000061,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000665,WT,NA,,0002A,,LMSP0000000062,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000666,WT,NA,,P14_1,,LMSP0000000063,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000667,WT,NA,,P28_2,,LMSP0000000064,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000668,WT,NA,,P7_2,,LMSP0000000065,Unknown,http://www.w3.org/2002/07/owl#taxid_10090,NA
+infant,Anencephaly-brain anomaly,,LMEX0000000670,,,No known lung disease,D030,White,LMSP0000000068,Female,http://www.w3.org/2002/07/owl#taxid_9606,3.08 kg
+infant,Trauma,,LMEX0000000675,,,No known lung disease,D024,Hispanic/Latino,LMSP0000000035,Male,http://www.w3.org/2002/07/owl#taxid_9606,8.62 kg
+,,NA,LMEX0000000676,WT,1/16/2015,,LMM.15.12A.8,,LMSP0000000045,Male,http://www.w3.org/2002/07/owl#taxid_10090,3.1 g
+,,NA,LMEX0000000684,WT,NA,,LMM.15.8961.8,,LMSP0000000059,Female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000685,WT,NA,,LMM.15.8750.12,,LMSP0000000058,Male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000686,WT,NA,,LMM.15.8750.12,,LMSP0000000058,Male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000687,WT,NA,,LMM.15.8750.12,,LMSP0000000058,Male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000688,WT,NA,,LMM.15.8750.12,,LMSP0000000058,Male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000689,WT,NA,,LMM.15.8750.12,,LMSP0000000058,Male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000690,WT,NA,,LMM.15.8961.8,,LMSP0000000059,Female,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000691,WT,NA,,LMM.15.8750.12,,LMSP0000000058,Male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000692,WT,NA,,LMM.15.8750.12,,LMSP0000000058,Male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000693,WT,NA,,LMM.15.8750.12,,LMSP0000000058,Male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000694,WT,NA,,LMM.15.8750.12,,LMSP0000000058,Male,http://www.w3.org/2002/07/owl#taxid_10090,NA
+,,NA,LMEX0000000695,WT,NA,,LMM.15.8750.12,,LMSP0000000058,Male,http://www.w3.org/2002/07/owl#taxid_10090,NA
